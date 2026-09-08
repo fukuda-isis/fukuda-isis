@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Isis 👋
 
-<!--
-**fukuda-isis/fukuda-isis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Technology & Innovation student at UPCA/Deloitte currently focusing on **QA Automation and Software Testing**.
 
-Here are some ideas to get you started:
+I'm building practical projects to develop my skills in test automation, quality assurance, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 QA & Automation
+
+* 🎭 Playwright
+* 💻 TypeScript & JavaScript
+* 🔍 Software Testing
+* 🧩 End-to-End Testing
+* 🌱 Currently improving my skills in test automation and QA practices
+
+## 🚀 Featured Projects
+
+### [Swag Labs — QA Automation](#)
+
+Simple end-to-end test automation project for an e-commerce application using **Playwright and TypeScript**.
+
+* Authentication testing
+* Shopping cart testing
+* Automated functional tests
+* Test documentation
+
+> More projects coming soon.
+
+## 📚 Currently Learning
+
+* Playwright & Test Automation
+* QA methodologies and best practices
+* Continuous Integration / Continuous Testing
+* JavaScript & TypeScript
+* SQL
+
+## 🎯 Goals
+
+My goal is to build a strong foundation in **Quality Assurance and Test Automation** through hands-on projects and continuous learning.
+
+---
+
+*Building, testing, learning, and improving — one project at a time.*
